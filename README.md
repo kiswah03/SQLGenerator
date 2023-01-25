@@ -1,4 +1,4 @@
-# DataSaver
+# SQL Code Generator Software
 Tool for Querying Database Using a Universal Natural Language Interface
 Natural Language Processing can bring powerful
 enhancement to virtually any computer program interface. This
